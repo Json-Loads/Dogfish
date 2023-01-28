@@ -44,7 +44,7 @@ Privacy Policy
 ==============
 Json has a commitment to protect your personal information and your privacy. This privacy policy applies to the data being collected through the Bot, and explains how it's being collected, used, and shared.
 
-Information We Collect
+Information Bein Collected
 --------------
 When you use our Discord bot, the following types of information may be collected:
 
