@@ -39,3 +39,36 @@ These Terms constitute the entire agreement between Json and the User with respe
 Changes to the Terms
 ------------
 Json may revise these Terms at any time by updating this document. Your continued use of the Bot after any such changes constitutes your acceptance of the new Terms.
+
+Privacy Policy
+==============
+Json has a commitment to protect your personal information and your privacy. This privacy policy applies to the data being collected through the Bot, and explains how it's being collected, used, and shared.
+
+Information We Collect
+--------------
+When you use our Discord bot, the following types of information may be collected:
+
+* User ID: Json will collect the Discord user ID to identify you as a user of the bot.
+* Server ID: Json will collect the ID of the server where you are using the bot.
+* Date of first usage: Json will collect the date of the first time you used Dogfish in the form of a Unix timestamp.
+* Gender identity: Json will collect your gender identity to improve the service of the Bot.
+
+No other kind of personally identifiable information, such as name, address, or email address will be collected.
+
+Use of Information
+-------------
+The information being collected from the Bot to provide and improve our service may include:
+* Responding to your commands and providing the requested information or functionality.
+
+Sharing of Information
+-------------
+No personal information will be shared with any third parties, except in the following case:
+* As required by law: Information may be disclosed if required to do so by law, or in response to a valid request by a law enforcement or government agency.
+
+Data Retention
+-------------
+Information will be retained for as long as necessary to provide and improve the service, or as required by law. Data that is no longder needed will be deleted. 
+
+Changes to This Policy
+-------------
+This privacy policy may be updated from time to time. Your continued use of our the Bot after any changes to this policy will be deemed as acceptance of the updated policy.
